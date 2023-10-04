@@ -8,3 +8,5 @@ D:\RUPP\Y4 S1\OOAD\Projects Test\eBook_Store\eBook_Store\obj\Debug\eBook_Store.c
 D:\RUPP\Y4 S1\OOAD\Projects Test\eBook_Store\eBook_Store\obj\Debug\eBook_Store.csproj.CoreCompileInputs.cache
 D:\RUPP\Y4 S1\OOAD\Projects Test\eBook_Store\eBook_Store\obj\Debug\eBook_Store.exe
 D:\RUPP\Y4 S1\OOAD\Projects Test\eBook_Store\eBook_Store\obj\Debug\eBook_Store.pdb
+D:\RUPP\Y4 S1\OOAD\Projects Test\eBook_Store\eBook_Store\bin\Debug\MaterialSkin.dll
+D:\RUPP\Y4 S1\OOAD\Projects Test\eBook_Store\eBook_Store\obj\Debug\eBook_Store.csproj.CopyComplete
