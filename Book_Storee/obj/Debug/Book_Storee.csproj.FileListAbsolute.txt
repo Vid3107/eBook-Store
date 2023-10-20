@@ -1,0 +1,9 @@
+D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\obj\Debug\Book_Storee.csproj.AssemblyReference.cache
+D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\obj\Debug\Book_Storee.Properties.Resources.resources
+D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\obj\Debug\Book_Storee.csproj.GenerateResource.cache
+D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\obj\Debug\Book_Storee.csproj.CoreCompileInputs.cache
+D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\bin\Debug\Book_Storee.exe.config
+D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\bin\Debug\Book_Storee.exe
+D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\bin\Debug\Book_Storee.pdb
+D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\obj\Debug\Book_Storee.exe
+D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\obj\Debug\Book_Storee.pdb
