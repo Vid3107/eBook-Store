@@ -7,3 +7,13 @@ D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\bin\Debug\Book_Storee.exe
 D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\bin\Debug\Book_Storee.pdb
 D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\obj\Debug\Book_Storee.exe
 D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\obj\Debug\Book_Storee.pdb
+D:\IT-SLS-Y4\OOAD\Assignment\Form C#\eBook-Store\Book_Storee\obj\Debug\Book_Storee.csproj.AssemblyReference.cache
+D:\IT-SLS-Y4\OOAD\Assignment\Form C#\eBook-Store\Book_Storee\obj\Debug\Book_Storee.csproj.SuggestedBindingRedirects.cache
+D:\IT-SLS-Y4\OOAD\Assignment\Form C#\eBook-Store\Book_Storee\obj\Debug\Book_Storee.Properties.Resources.resources
+D:\IT-SLS-Y4\OOAD\Assignment\Form C#\eBook-Store\Book_Storee\obj\Debug\Book_Storee.csproj.GenerateResource.cache
+D:\IT-SLS-Y4\OOAD\Assignment\Form C#\eBook-Store\Book_Storee\obj\Debug\Book_Storee.csproj.CoreCompileInputs.cache
+D:\IT-SLS-Y4\OOAD\Assignment\Form C#\eBook-Store\Book_Storee\obj\Debug\Book_Storee.exe
+D:\IT-SLS-Y4\OOAD\Assignment\Form C#\eBook-Store\Book_Storee\obj\Debug\Book_Storee.pdb
+D:\IT-SLS-Y4\OOAD\Assignment\Form C#\eBook-Store\Book_Storee\bin\Debug\Book_Storee.exe.config
+D:\IT-SLS-Y4\OOAD\Assignment\Form C#\eBook-Store\Book_Storee\bin\Debug\Book_Storee.exe
+D:\IT-SLS-Y4\OOAD\Assignment\Form C#\eBook-Store\Book_Storee\bin\Debug\Book_Storee.pdb
