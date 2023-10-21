@@ -59,6 +59,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Forms\AdminForm\formAdmin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,6 +71,13 @@
     </Compile>
     <Compile Include="Forms\AdminForm\formPushlisherList.Designer.cs">
       <DependentUpon>formPushlisherList.cs</DependentUpon>
+=======
+    <Compile Include="Forms\AdminForm\Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminForm\Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+>>>>>>> 9c2a8d03eb5b2674dfdefe31e698ea23b9adf93b
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -101,6 +109,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Forms\CashierForm\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
