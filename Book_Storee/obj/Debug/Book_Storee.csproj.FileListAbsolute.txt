@@ -7,4 +7,11 @@ D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\bin\Debug\Book_Storee.exe
 D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\bin\Debug\Book_Storee.pdb
 D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\obj\Debug\Book_Storee.exe
 D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\obj\Debug\Book_Storee.pdb
-D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\obj\Debug\Book_Storee.Admin.resources
+D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\bin\Debug\Krypton.Toolkit.dll
+D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\bin\Debug\MetroFramework.Design.dll
+D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\bin\Debug\MetroFramework.dll
+D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\bin\Debug\MetroFramework.Fonts.dll
+D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\bin\Debug\Krypton.Toolkit.xml
+D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\obj\Debug\Book_Storee.csproj.CopyComplete
+D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\obj\Debug\Book_Storee.formAdmin.resources
+D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\obj\Debug\Book_Storee.Forms.AdminForm.formPushlisherList.resources

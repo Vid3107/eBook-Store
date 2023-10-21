@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Book_Storee"
+    "\\Book_Storee",
+    "\\Book_Storee\\Forms",
+    "\\Book_Storee\\Forms\\AdminForm"
   ],
-  "SelectedNode": "\\Book_Storee\\App.config",
+  "SelectedNode": "\\Book_Storee\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
