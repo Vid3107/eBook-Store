@@ -7,3 +7,4 @@ D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\bin\Debug\Book_Storee.exe
 D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\bin\Debug\Book_Storee.pdb
 D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\obj\Debug\Book_Storee.exe
 D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\obj\Debug\Book_Storee.pdb
+D:\RUPP\Y4 S1\OOAD\Assignment\eBook-Store\Book_Storee\obj\Debug\Book_Storee.Admin.resources
