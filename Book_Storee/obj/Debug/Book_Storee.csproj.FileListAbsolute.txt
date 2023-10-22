@@ -28,3 +28,20 @@ D:\IT-SLS-Y4\OOAD\Assignment\Form C#\eBook-Store\Book_Storee\bin\Debug\Book_Stor
 D:\IT-SLS-Y4\OOAD\Assignment\Form C#\eBook-Store\Book_Storee\bin\Debug\Book_Storee.exe
 D:\IT-SLS-Y4\OOAD\Assignment\Form C#\eBook-Store\Book_Storee\bin\Debug\Book_Storee.pdb
 >>>>>>> 9c2a8d03eb5b2674dfdefe31e698ea23b9adf93b
+D:\test\eBook_Store\Book_Storee\bin\Debug\Book_Storee.exe.config
+D:\test\eBook_Store\Book_Storee\bin\Debug\Book_Storee.exe
+D:\test\eBook_Store\Book_Storee\bin\Debug\Book_Storee.pdb
+D:\test\eBook_Store\Book_Storee\bin\Debug\Krypton.Toolkit.dll
+D:\test\eBook_Store\Book_Storee\bin\Debug\MetroFramework.Design.dll
+D:\test\eBook_Store\Book_Storee\bin\Debug\MetroFramework.dll
+D:\test\eBook_Store\Book_Storee\bin\Debug\MetroFramework.Fonts.dll
+D:\test\eBook_Store\Book_Storee\bin\Debug\Krypton.Toolkit.xml
+D:\test\eBook_Store\Book_Storee\obj\Debug\Book_Storee.csproj.AssemblyReference.cache
+D:\test\eBook_Store\Book_Storee\obj\Debug\Book_Storee.formAdmin.resources
+D:\test\eBook_Store\Book_Storee\obj\Debug\Book_Storee.Forms.AdminForm.formPushlisherList.resources
+D:\test\eBook_Store\Book_Storee\obj\Debug\Book_Storee.Properties.Resources.resources
+D:\test\eBook_Store\Book_Storee\obj\Debug\Book_Storee.csproj.GenerateResource.cache
+D:\test\eBook_Store\Book_Storee\obj\Debug\Book_Storee.csproj.CoreCompileInputs.cache
+D:\test\eBook_Store\Book_Storee\obj\Debug\Book_Storee.csproj.CopyComplete
+D:\test\eBook_Store\Book_Storee\obj\Debug\Book_Storee.exe
+D:\test\eBook_Store\Book_Storee\obj\Debug\Book_Storee.pdb
