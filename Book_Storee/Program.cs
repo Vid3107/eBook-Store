@@ -1,4 +1,5 @@
 ﻿using Book_Storee.Forms.AdminForm;
+using Book_Storee.Forms.Auth;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,7 +18,7 @@ namespace Book_Storee
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new formAdmin());
+            Application.Run(new FormLogin());
         }
     }
 }

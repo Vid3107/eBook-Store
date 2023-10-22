@@ -45,3 +45,21 @@ D:\test\eBook_Store\Book_Storee\obj\Debug\Book_Storee.csproj.CoreCompileInputs.c
 D:\test\eBook_Store\Book_Storee\obj\Debug\Book_Storee.csproj.CopyComplete
 D:\test\eBook_Store\Book_Storee\obj\Debug\Book_Storee.exe
 D:\test\eBook_Store\Book_Storee\obj\Debug\Book_Storee.pdb
+D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\bin\Debug\Book_Storee.exe.config
+D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\bin\Debug\Book_Storee.exe
+D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\bin\Debug\Book_Storee.pdb
+D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\bin\Debug\Krypton.Toolkit.dll
+D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\bin\Debug\MetroFramework.Design.dll
+D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\bin\Debug\MetroFramework.dll
+D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\bin\Debug\MetroFramework.Fonts.dll
+D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\bin\Debug\Krypton.Toolkit.xml
+D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\obj\Debug\Book_Storee.csproj.AssemblyReference.cache
+D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\obj\Debug\Book_Storee.formAdmin.resources
+D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\obj\Debug\Book_Storee.Forms.AdminForm.formPushlisherList.resources
+D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\obj\Debug\Book_Storee.Properties.Resources.resources
+D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\obj\Debug\Book_Storee.csproj.GenerateResource.cache
+D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\obj\Debug\Book_Storee.csproj.CoreCompileInputs.cache
+D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\obj\Debug\Book_Storee.csproj.CopyComplete
+D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\obj\Debug\Book_Storee.exe
+D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\obj\Debug\Book_Storee.pdb
+D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\obj\Debug\Book_Storee.Forms.Auth.FormLogin.resources
