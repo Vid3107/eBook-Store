@@ -63,3 +63,4 @@ D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\obj\Debu
 D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\obj\Debug\Book_Storee.exe
 D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\obj\Debug\Book_Storee.pdb
 D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\obj\Debug\Book_Storee.Forms.Auth.FormLogin.resources
+D:\University\faculty of IT\Year 4\OOAD\Project\eBook-Store\Book_Storee\obj\Debug\Book_Storee.Forms.ChasierForm.chasierForm.resources
