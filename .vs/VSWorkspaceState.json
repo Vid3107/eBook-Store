@@ -3,8 +3,10 @@
     "",
     "\\Book_Storee",
     "\\Book_Storee\\Forms",
-    "\\Book_Storee\\Forms\\AdminForm"
+    "\\Book_Storee\\Forms\\AdminForm",
+    "\\Book_Storee\\Forms\\Auth",
+    "\\Book_Storee\\Forms\\ChasierForm"
   ],
-  "SelectedNode": "\\Book_Storee.sln",
+  "SelectedNode": "\\Book_Storee\\Forms\\ChasierForm\\chasierForm.cs",
   "PreviewInSolutionExplorer": false
 }
