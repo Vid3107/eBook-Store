@@ -10,11 +10,31 @@ using System.Windows.Forms;
 
 namespace Book_Storee.Forms.ChasierForm
 {
-    public partial class chasierForm : Form
+    public partial class formCashier : Form
     {
-        public chasierForm()
+        public formCashier()
         {
             InitializeComponent();
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void formCashier_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }

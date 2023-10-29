@@ -1,4 +1,5 @@
 ﻿using Book_Storee.Forms.AdminForm;
+using Book_Storee.Forms.ChasierForm;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -26,5 +27,12 @@ namespace Book_Storee
             formPushlisherList.BringToFront();
             formPushlisherList.Show();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            formCashier form = new formCashier();
+            form.ShowDialog();  
+                
+          }
     }
 }
